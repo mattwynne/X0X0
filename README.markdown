@@ -7,7 +7,7 @@ the example of an application that allows you to play naughts and crosses
 ## Context
 
 The application we're building is written in javascript. If you want to take
-a look at it, open the [app/index.html](app/index.html) page in a browser.
+a look at it, open the `app/index.html` page in a browser.
 
 We have two levels of tests for this applicaiton. There are acceptance tests,
 which spell out the basic functionality that our stakeholders expect. Then there
@@ -19,7 +19,7 @@ of every edge-case.
 
 ## Running the unit tests
 
-The unit tests run in a browser. Just open up [unit-tests/index.html](unit-tests/index.html)
+The unit tests run in a browser. Just open up `unit-tests/index.html` in a browser
 to run then.
 
 ## Running the acceptance tests
